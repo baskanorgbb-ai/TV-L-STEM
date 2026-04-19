@@ -1,0 +1,82 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",TRT 1
+https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=8cetw6gsj833&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8cetz3t4f6on&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",STAR
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8ceu1kk4gp6f&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",ATV
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1776678138&st=TUDT7ich3SebUEOyljtWQA&sid=8ceu7ecamxgt&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",NOW TV
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1776690536&st=hAR4yUJ1Ksk2E-a4o6lPPw
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",TV8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=8ceuculdcjlc&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",A2
+https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1776678266&st=XD-N-Uktt9jFhLqwuX6xmw&sid=8ceue8hta0ux&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",SHOW
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8ceuhcj1h1ei&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",TV2
+https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=8ceuksjfzb66&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",KANAL7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+#EXTINF:-1 group-title="HABER",A HABER
+https://trkvz.daioncdn.net/ahaber/ahaber_1080p.m3u8?e=1776678774&st=chfNWHCrmb0TJjsA1Ilf4g&sid=8cev5fdgsbku&app=9aedd495-cc54-4ad3-a01d-9573163f078a&ce=2
+
+#EXTINF:-1 group-title="HABER",HALK TV
+https://halktv.daioncdn.net/halktv/halktv_720p.m3u8?sid=8cev9x6f3gsn&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+
+#EXTINF:-1 group-title="HABER",CNN TÜRK
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8?&live=true&app=com.cnnturk&st=2l4n1-5jJ1h1aypsGrrqag&e=1776644518
+
+#EXTINF:-1 group-title="HABER",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 group-title="HABER",HABERTÜRK
+https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8cevinxnhl36&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",TV8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+
+#EXTINF:-1 group-title="BELGESEL",DMAX
+https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w1416804102.m3u8?hash=d58bababd6e123b3667d599aa0506851
+
+#EXTINF:-1 group-title="BELGESEL",TLC
+https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=d58bababd6e123b3667d599aa0506851
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",TV100
+https://tv100.daioncdn.net/tv100/tv100_720p.m3u8?&sid=8cevxczn7l4u&app=356e7599-d81d-4357-935a-355a1ad9846e&ce=2
+
+#EXTINF:-1 group-title="SPOR",ASPOR
+https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1776679739&st=nIz3QIFkSOFp32WNdh53nw&sid=8cewl2bjie33&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3
+
+#EXTINF:-1 group-title="SPOR",TRT SPOR
+https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=8cewnhcdz9zs&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",SHOWMAX
+https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8?e=1776641833&st=jsCps07QPqRK4aWkQjt9hA&tv=1
+
+#EXTINF:-1 group-title="ULUSAL KANALLAR",SHOWTURK
+https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1776641808&st=WH2QPpK-tudx0xt7TG8U2g&tv=1
+
+
+
+
+
+
