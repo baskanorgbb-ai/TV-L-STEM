@@ -70,10 +70,10 @@ https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1776679739&st=nIz3QIFkSOFp32
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=8cewnhcdz9zs&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",SHOWMAX
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showmax.m3u8
+https://ciner-live.ercdn.net/showmax/showmax_720p.m3u8?e=1776653489&st=iKo2UWp4dLjB2TyR5o4ong&tv=1
 
 #EXTINF:-1 group-title="ULUSAL KANALLAR",Show Türk
-https://canlitvulusal.xyz/live/showturk/index.m3u8
+https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1776653434&st=_2aKdVA7MltSv6OCN-8DIQ&tv=1
 
 
 
