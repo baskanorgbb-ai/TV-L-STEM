@@ -76,7 +76,14 @@ https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8?e=1776641833&st=jsCps07Q
 https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1776641808&st=WH2QPpK-tudx0xt7TG8U2g&tv=1
 
 #EXTM3U
-#EXTINF:-1 group-title="7/24 DİZİ",Kurtlar Vadisi
+
+#EXTINF:-1 group-title="7/24 DİZİ",EZEL
+https://ercdn.net
+
+#EXTINF:-1 group-title="7/24 DİZİ",BEHZAT Ç
+https://ercdn.net
+
+#EXTINF:-1 group-title="7/24 DİZİ",İŞLER GÜÇLER
 https://ercdn.net
 
 
