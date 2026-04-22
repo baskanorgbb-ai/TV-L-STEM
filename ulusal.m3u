@@ -27,9 +27,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 group-title="ULUSAL KANALLAR",KANAL7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
-#EXTINF:-1 group-title="HABER",A HABER
-https://trkvz.daioncdn.net/ahaber/ahaber_1080p.m3u8?e=1776678774&st=chfNWHCrmb0TJjsA1Ilf4g&sid=8cev5fdgsbku&app=9aedd495-cc54-4ad3-a01d-9573163f078a&ce=2
-
 #EXTINF:-1 group-title="HABER",HALK TV
 https://halktv.daioncdn.net/halktv/halktv_720p.m3u8?sid=8cev9x6f3gsn&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
 
